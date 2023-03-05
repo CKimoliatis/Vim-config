@@ -1,0 +1,22 @@
+set nocompatible 
+
+" Automatically wrap text that extends beyong the screen length
+set wrap
+
+" Encoding
+set encoding=utf-8
+
+" Show line numbers 
+set nu
+
+" Status bar
+set laststatus=2
+
+" ColorScheme Slate(Greyish)
+colorscheme slate
+
+" Syntax
+syntax on
+
+"tabstop 4
+set tabstop=4
